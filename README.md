@@ -1,5 +1,6 @@
+<div align="justify">
 
-# README - Philadelphia Household Travel Survey Transportation Modeling
+# Philadelphia Household Travel Survey Transportation Modeling
 
 ## Overview
 This project utilizes the 2012 Philadelphia Household Travel Survey to analyze transportation patterns and model transit ridership. The survey data includes detailed household, personal, vehicle, and trip information, aiding in comprehensive transportation studies for the Philadelphia area.
